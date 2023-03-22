@@ -92,6 +92,6 @@ Play Sound: Plays a specified sound when the PDF is opened.
 
 
 
-#License
+# License
 
 This project is licensed under the MIT License 
