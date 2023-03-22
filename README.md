@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1> PyQt5 PDF Injector </h1>
+<h1> PyQt5 PDF Injector V1.0</h1>
 </div>
 
 
