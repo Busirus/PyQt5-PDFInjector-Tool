@@ -8,7 +8,9 @@
   <img src="https://image.noelshack.com/fichiers/2023/12/3/1679476504-gui.png">
 </div>
 
-# DISCLAIMER: This tool is for educational purposes only. Do not use it for any illegal activities. The author is not responsible for any misuse of this tool.
+# DISCLAIMER: 
+
+This tool is for educational purposes only. Do not use it for any illegal activities. The author is not responsible for any misuse of this tool.
 
 # Introduction
 
