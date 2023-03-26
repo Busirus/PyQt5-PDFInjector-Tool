@@ -13,7 +13,7 @@
 
 This Python app allows users to inject malicious payloads into PDF files through a GUI. It supports three injection methods: URL, file, and JavaScript. Users select the input and output PDF files, choose a payload, and the app creates a new PDF with the payload injected. Pre-defined JavaScript payloads are also available. 
 
-# DISCLAIMER: 
+# DISCLAIMER
 
 This tool is for educational purposes only. Do not use it for any illegal activities. The author is not responsible for any misuse of this tool.
 
@@ -25,15 +25,13 @@ This tool is for educational purposes only. Do not use it for any illegal activi
 git clone https://github.com/busirus/PyQt5-PDFInjector.git
 ```
 
-2. Make sure that Python 3.x is installed.
-
-3. Install the required libraries by running the following command in the terminal:
+2. Install the required libraries by running the following command in the terminal:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the program by executing the following command:
+3. Run the program by executing the following command:
 
 ```bash
 python main.py 
